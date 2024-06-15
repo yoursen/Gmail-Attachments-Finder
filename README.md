@@ -11,7 +11,7 @@ The **Gmail Attachments Finder** is a Google Chrome extension that allows you to
 ## Installation
 To install the Gmail Attachments Finder extension, follow these steps:
 1. Clone the repository
-2. Add your Google OAUTH2 client_id into [manifest.json](./src/manifest.json) file
+2. Add YOUR_CLIENT_ID and YOUR_PUBLIC_KEY_FROM_CHROME_WEB_STORE into [manifest.json](./src/manifest.json) file
 3. Load unpacked extension into Google Chrome
 
 ## License
