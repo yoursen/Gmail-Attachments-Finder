@@ -14,5 +14,8 @@ To install the Gmail Attachments Finder extension, follow these steps:
 2. Add YOUR_CLIENT_ID and YOUR_PUBLIC_KEY_FROM_CHROME_WEB_STORE into [manifest.json](./src/manifest.json) file
 3. Load unpacked extension into Google Chrome
 
+## Preview
+![Preview](./Docs/Images/screenshot.png)
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
